@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 📩: latt@duck.com
 🐦: [@hsiang_latt](https://twitter.com/hsiang_latt)
 🛩️: [@skadomsky](https://t.me/skadomsky)
-🔗: [skad.eu.org]
+🔗: [skad.eu.org](https://skad.eu.org)
 
