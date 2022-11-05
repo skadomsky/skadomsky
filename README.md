@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello!
+## Hello! / 你好！/ Здравствуйте!
 ```Objective-C
 [self langSpoken: [[NSArray alloc] initWithObjects: @"zh", @"en", @"ru"];
 [self usedLanguages: [NSDictionary dictionaryWithObjectsandKeys: @"Objective-C",
