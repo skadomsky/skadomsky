@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello! / 你好！/ Здравствуйте!
+## Hello!
 ```Objective-C
 [self langSpoken: [[NSArray alloc] initWithObjects: @"zh", @"en", @"ru"];
 [self usedLanguages: [NSDictionary dictionaryWithObjectsandKeys: @"Objective-C",
 @"Skilled",@"C/C++", @"Won't practice",@"Rust", @"Newbie"]];
 self.sayHello();
 ```
-## You can contact me via:
-📩: latt@duck.com
-🐦: [@hsiang_latt](https://twitter.com/hsiang_latt)
-🛩️: [@skadomsky](https://t.me/skadomsky)
-🔗: [skad.eu.org](https://skad.eu.org)
+## Me via:
+
+Mastodon: [@skadomsky](https://mastodon.world/@skadomsky)
+Telegram: [@skadomsky](https://t.me/skadomsky)
+
 
