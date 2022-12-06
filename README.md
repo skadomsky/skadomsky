@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 @"Skilled",@"C/C++", @"Won't practice",@"Rust", @"Newbie"]];
 self.sayHello();
 ```
-## Me via:
 
-Mastodon: [@skadomsky](https://mastodon.world/@skadomsky)
-Telegram: [@skadomsky](https://t.me/skadomsky)
 
 
