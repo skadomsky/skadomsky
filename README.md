@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Hello!
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@hsiang_latt&color=1DA1F2)](https://twitter.com/hsiang_latt)
-
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@youngive&color=0088cc)](https://t.me/youngive)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%40skadomsky-blueviolet)](https://mastodon.social/@skadomsky)
 
 ```Objective-C
 [self langSpoken: [[NSArray alloc] initWithObjects: @"zh", @"en", @"ru"];
