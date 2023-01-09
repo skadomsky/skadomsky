@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 self.sayHello();
 ```
 -->
-Please consider sending me an email if you need to reach me asap.  
+Please consider mailing me if you need to reach me asap.  
 Profile via [@nanimonothing_](https://twitter.com/nanimonothing_).
 
