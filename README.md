@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@youngive&color=0088cc)](https://t.me/youngive)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%40skadomsky@mastodon.world-blueviolet)](https://mastodon.world/@skadomsky)
 [![Matrix](https://img.shields.io/badge/Matrix-%40latt.h%3Amatrix.org-%235dac8c)](https://matrix.to/#/@latt.h:matrix.org)
-![Discord](https://img.shields.io/badge/Discord-Latt%20Hsiang%237241-blueviolet)
 <!--
 ```Objective-C
 [self langSpoken: [[NSArray alloc] initWithObjects: @"zh", @"en", @"ru"];
