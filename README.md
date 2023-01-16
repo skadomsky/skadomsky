@@ -28,5 +28,5 @@ self.sayHello();
 ```
 -->
 Please consider mailing me if you need to reach me asap.  
-Profile via [@nanimonothing_](https://twitter.com/nanimonothing_).
+Profile via [@nanimonothing_](https://twitter.com/nanimonothing_), author permitted.
 
