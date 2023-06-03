@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me
+## Hello!
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@hsiang_latt&color=1DA1F2)](https://twitter.com/hsiang_latt)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%40skadomsky@mastodon.world-blueviolet)](https://mastodon.world/@skadomsky)
 <!--
@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 self.sayHello();
 ```
 -->
-Please consider mailing me if you need to reach me asap.  
+- I'm currently interested in `Rust` `Swift` and  `Objective-C related development`.
+- I enjoy doing things related to Abandonware & Old Stuff & Retro Tech.
+- Please consider <a href="mailto:latt.hsiang@gmail.com">mailing me</a> if you need to reach me asap.  
 <!-- Profile via [@nanimonothing_](https://twitter.com/nanimonothing_)nanimonothing_, author permitted. -->
 
