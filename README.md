@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 self.sayHello();
 ```
 -->
-- I'm currently interested in `Rust` `Swift` and  `Objective-C related development`.
-- I enjoy doing things related to Abandonware & Old Stuff & Retro Tech.
+- I'm currently interested in `Rust` `Kotlin` and  `iOS Development`.
+- I do things related to Abandonware & Old Stuff & Retro Tech.
 - Please consider <a href="mailto:latt.hsiang@gmail.com">mailing me</a> if you need to reach me asap.  
 <!-- Profile via [@nanimonothing_](https://twitter.com/nanimonothing_)nanimonothing_, author permitted. -->
 
