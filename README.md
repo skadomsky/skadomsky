@@ -27,6 +27,6 @@ self.sayHello();
 -->
 - I'm currently interested in `Rust` `Kotlin` and  `iOS Development`.
 - I do things related to Abandonware & Old Stuff & Retro Tech.
-- Please consider <a href="mailto:latt.hsiang@gmail.com">mailing me</a> if you need to reach me asap.  
+- Please consider <a href="mailto:latt@duck.com">mailing me</a> if you need to reach me asap.  
 <!-- Profile via [@nanimonothing_](https://twitter.com/nanimonothing_)nanimonothing_, author permitted. -->
 
