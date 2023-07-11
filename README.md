@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ## Hello!
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@hsiang_latt&color=1DA1F2)](https://twitter.com/hsiang_latt)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%40skadomsky@mastodon.world-blueviolet)](https://mastodon.world/@skadomsky)
+[![PGP](https://img.shields.io/badge/PGP-public_keys-grey)](https://skadomsky.com/about)
 <!--
-```Objective-C
 [self langSpoken: [[NSArray alloc] initWithObjects: @"zh", @"en", @"ru"];
 [self usedLanguages: [NSDictionary dictionaryWithObjectsandKeys: @"Objective-C",
 @"Skilled",@"C/C++", @"Won't practice",@"Rust", @"Newbie"]];
