@@ -28,5 +28,5 @@ self.sayHello();
 - I'm currently interested in `Rust` `Kotlin` and  `iOS Development`.
 - I do things related to Abandonware & Old Stuff & Retro Tech.
 - Please consider <a href="mailto:latt@duck.com">mailing me</a> if you need to reach me asap.
-- My commits are always signed with [my PGP key](https://skadomsky.com/about/2603F9E48101C8F3DD36CDA9D9CE05A053343EE3.asc) since 14/07/2023. Please check [GitHub verfied sign](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits) in every commits I made to ensure it was my own. Thank you! <!-- Profile via [@nanimonothing_](https://twitter.com/nanimonothing_)nanimonothing_, author permitted. -->
+- My commits are always signed with [my PGP key](https://skadomsky.com/about/2603F9E48101C8F3DD36CDA9D9CE05A053343EE3.asc) since 08/23/2023. Please check [GitHub verfied sign](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits) in every commits I made to ensure it was my own. Thank you! <!-- Profile via [@nanimonothing_](https://twitter.com/nanimonothing_)nanimonothing_, author permitted. -->
 
