@@ -31,7 +31,7 @@ self.sayHello();
 - My commits are `always` signed with [my PGP key](https://skadomsky.com/about/9D1A9042B4F98105420A804F85548D71B7FC761E.asc) since 08/23/2023. Please check [GitHub verfied sign](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits) in every commits I made to `ensure` it was my own. Thank you! <!-- Profile via [@nanimonothing_](https://twitter.com/nanimonothing_)nanimonothing_, author permitted. -->
 ## Encryption Info
 ```
-keyId: 9D1A9042B4F98105420A804F85548D71B7FC761E
+Fingerprint: 9D1A 9042 B4F9 8105 420A 804F 8554 8D71 B7FC 761E
 Author: Latt Hsiang  
 Mail: latt.hsiang@gmail.com  
 Exp: 2026-08-22
